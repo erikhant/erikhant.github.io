@@ -1,0 +1,17 @@
+<svg id="Component_3_1" data-name="Component 3 – 1" xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #141f94;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="22.5" cy="22.5" r="22.5"/>
+  <path id="Path_10" data-name="Path 10" class="cls-2" d="M-5110.808,9.193-5120,18.385l9.193-9.193L-5120,0l9.193,9.193L-5101.615,0l-9.192,9.193,9.192,9.193Z" transform="translate(5133.5 13.5)"/>
+</svg>
