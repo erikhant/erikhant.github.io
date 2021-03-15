@@ -717,6 +717,11 @@ main {
     color: #B2B2B2;
 }
 
+#alert-text strong {
+    font-size: 13px;
+    font-weight: 400;
+}
+
 .footer {
     position: relative;
     background-color: #2B37BD;
@@ -1382,6 +1387,10 @@ main {
 
     .form-group input {
         height: 40px;
+    }
+
+    #alert-text strong {
+        font-size: 11px;
     }
 
     /* End Contact Section */
