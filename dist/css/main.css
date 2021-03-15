@@ -869,6 +869,10 @@ main {
     .static-text {
         width: 50%;
     }
+
+    .about-pic {
+        width: 119%;
+    }
 }
 
 @media screen and (max-width: 991px) {
@@ -1032,7 +1036,7 @@ main {
     }
 
     .about-pic {
-        width: 135%;
+        width: 163%;
     }
 
     .about-me h1 {
