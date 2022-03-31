@@ -28,6 +28,8 @@
       .catch(error => {
           console.error('Error!', error.message);
           form.reset();
+          document.querySelector('.btn-send-email').disabled  = false;
+          document.querySelector('.btn-send-email').innerHTML = 'Send Email';
           document.querySelector('#alert-text strong').innerHTML = 'Failed to sent email. Please try again later!';
             alertText.classList.toggle('d-none');
             alertText.classList.toggle('alert-danger');
