@@ -1210,6 +1210,10 @@ main {
     display: none;
   }
 
+  #myportfolio .btn-more-info {
+    display: inline-block;
+  }
+
   /* End Hero Section */
 
   /* About Section */
